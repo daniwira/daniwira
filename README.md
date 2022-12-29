@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @daniwira
 - 👀 I’m interested in QA
 - 🌱 I’m currently learning QA Automation
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/dani-wira-sasmita/
 
 <!---
