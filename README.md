@@ -4,7 +4,9 @@
 - 📫 How to reach me 
      <a href="https://www.linkedin.com/in/dani-wira-sasmita/" rel="nofollow">linkedin</a>
      
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniwira&show_icons=true&theme=transparent)
+![Dani Wira Sasmita's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniwira&show_icons=true&theme=transparent)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniwira&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 daniwira/daniwira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
